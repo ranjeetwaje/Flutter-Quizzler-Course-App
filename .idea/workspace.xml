@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89026b02-6194-4dd3-959a-b6d99b841474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/question.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/quiz_bank.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i3Gt56UumD7FebnGy4Qbopt2aN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89026b02-6194-4dd3-959a-b6d99b841474" name="Default Changelist" comment="" />
+      <created>1601129073173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601129073173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="315" key="AndroidProcessChooserDialog" timestamp="1601145039348">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state x="772" y="315" key="AndroidProcessChooserDialog/0.23.1629.1027@0.23.1629.1027" timestamp="1601145039348" />
+    <state width="563" height="466" key="DebuggerActiveHint" timestamp="1601267369989">
+      <screen x="0" y="23" width="1627" height="1027" />
+    </state>
+    <state width="563" height="466" key="DebuggerActiveHint/0.23.1627.1027@0.23.1627.1027" timestamp="1601267369989" />
+    <state width="1177" height="267" key="GridCell.Tab.0.bottom" timestamp="1601352120957">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1177" height="267" key="GridCell.Tab.0.bottom/0.23.1627.1027@0.23.1627.1027" timestamp="1601267427730" />
+    <state width="1177" height="267" key="GridCell.Tab.0.bottom/0.23.1629.1027@0.23.1629.1027" timestamp="1601352120957" />
+    <state width="1177" height="267" key="GridCell.Tab.0.bottom/0.23.1630.1027@0.23.1630.1027" timestamp="1601300045751" />
+    <state width="1177" height="267" key="GridCell.Tab.0.center" timestamp="1601352120957">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1177" height="267" key="GridCell.Tab.0.center/0.23.1627.1027@0.23.1627.1027" timestamp="1601267427729" />
+    <state width="1177" height="267" key="GridCell.Tab.0.center/0.23.1629.1027@0.23.1629.1027" timestamp="1601352120957" />
+    <state width="1177" height="267" key="GridCell.Tab.0.center/0.23.1630.1027@0.23.1630.1027" timestamp="1601300045751" />
+    <state width="1177" height="267" key="GridCell.Tab.0.left" timestamp="1601352120956">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1177" height="267" key="GridCell.Tab.0.left/0.23.1627.1027@0.23.1627.1027" timestamp="1601267427729" />
+    <state width="1177" height="267" key="GridCell.Tab.0.left/0.23.1629.1027@0.23.1629.1027" timestamp="1601352120956" />
+    <state width="1177" height="267" key="GridCell.Tab.0.left/0.23.1630.1027@0.23.1630.1027" timestamp="1601300045750" />
+    <state width="1177" height="267" key="GridCell.Tab.0.right" timestamp="1601352120957">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1177" height="267" key="GridCell.Tab.0.right/0.23.1627.1027@0.23.1627.1027" timestamp="1601267427729" />
+    <state width="1177" height="267" key="GridCell.Tab.0.right/0.23.1629.1027@0.23.1629.1027" timestamp="1601352120957" />
+    <state width="1177" height="267" key="GridCell.Tab.0.right/0.23.1630.1027@0.23.1630.1027" timestamp="1601300045751" />
+    <state x="580" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1601314222463">
+      <screen x="0" y="23" width="1629" height="1027" />
+    </state>
+    <state x="580" y="375" key="com.intellij.ide.util.TipDialog/0.23.1629.1027@0.23.1629.1027" timestamp="1601314222463" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>115</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>120</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/quiz_bank.dart</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>103</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/quiz_bank.dart</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
